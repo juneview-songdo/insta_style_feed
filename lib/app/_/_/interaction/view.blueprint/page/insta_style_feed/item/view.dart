@@ -100,7 +100,7 @@ class ItemViewState extends State<ItemView> with StateMother {
                         color: Theme.of(context).textTheme.bodyMedium!.color),
                   ),
                   TextSpan(
-                    text: " 3시간", // 시간을 나타내는 부분
+                    text: " 3 Hours", // 시간을 나타내는 부분
                     style: Theme.of(context).textTheme.bodyMedium!,
                   ).textColor(Colors.grey),
                 ],
