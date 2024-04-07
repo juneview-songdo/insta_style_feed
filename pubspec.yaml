@@ -1,7 +1,7 @@
 name: insta_style_feed
 description: "insta style feed page by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/insta_style_feed
 
 version: 1.0.0+1
 
